@@ -210,7 +210,7 @@ Each layer exists because a specific problem appeared in testing. Each failure m
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mrz-automation-ai.git
+git clone https://github.com/omarmx9/mrz-automation-ai.git
 cd mrz-automation-ai
 
 # Install dependencies
